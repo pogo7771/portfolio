@@ -152,7 +152,7 @@ const Home = () => {
         <div className="profile-img-main">
           <img className="zoom_in" src={ProfileImg} alt="profile-img" />
           <h1 className="fade_up">
-            Jessica <span>Biogi</span>
+            Sachin <span></span>
           </h1>
           <h2 className="designer fade_up">{firstTexts[firstTextIndex]}</h2>
           <div className="profile-media-icons-main fade_up">
@@ -487,3 +487,4 @@ const Home = () => {
   );
 };
 export default Home;
+
